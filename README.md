@@ -1,1 +1,1 @@
-# penguin-ecommerce-bs
+# penguin-ecommerce-Bootstrap
